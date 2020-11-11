@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC PRETA",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Nootbook Lenovo",
+      "price": 4200
+    },
+    {
+      "id": 3,
+      "name": "Xiaomi redmi 9s",
+      "price": 2200
+    },
+    {
+      "name": "PlayStation 4",
+      "price": "2400",
+      "id": 4
+    },
+    {
+      "name": "Cadeira Gamer",
+      "price": "1100",
+      "id": 5
+    }
+  ]
+}
